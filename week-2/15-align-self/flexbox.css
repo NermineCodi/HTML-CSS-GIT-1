@@ -2,4 +2,7 @@
   display: flex;
 }
 
+.countries--second {
+  align-items: center;
+}
 /* Add your own CSS code below */
